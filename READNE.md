@@ -1,3 +1,3 @@
 # Axiquo Media Group Dashboard
 
-Axiquo Das
+Axiquo Dashboard for business operations.
